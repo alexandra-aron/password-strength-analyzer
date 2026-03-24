@@ -4,7 +4,7 @@
 This project analyzes password strength based on structure and common usage patterns. It evaluates how secure a password is and provides visual feedback.
 
 ## Features
-- Analyze password strength using Python
+- Analyze password strength using Python and Jupyter
 - Store and manage password data in PostgreSQL
 - Generate graphs showing the strength of the current password
 - Create reports based on previously recorded passwords in the database
